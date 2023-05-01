@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**spanarin/spanarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏼‍💻 I'm Sergey, I'm skilled engineer making this world better, one line of code at a time.
 
-Here are some ideas to get you started:
+**What I'm up to**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👪 Raising a family
+- 🏗️ Engineering products with impact and great UI/UX
+- 🌱 I’m currently learning the best of UI/UX from Apple (Steve Wozniak, Jony Ive, Design Guidelines), Adam Wathan (Tailwind CSS), Dieter Rams, Teenage Engineering
+- 🚧 Open source work in the Redwood JS ecosystem
+- 💬 Ask me about React, React Native, Tailwind CSS
+- 📫 How to reach me: sergpanarin@gmail.com
+- ⚡ Fun fact: Steve Wozniak is my client
+
+**Links**
+
+* ⭐️ my 94-stars repo: https://github.com/SmartyKit/
+* 📚Dev.to React & Redwood JS article: https://dev.to/spanarin/react-components-saas-startup-landing-with-redwoodjs-and-tailwind-css-in-10-minutes-3hc4
+* 🌐 more about me & my work: https://smartykit.github.io/dev-portfolio-landing/
+
