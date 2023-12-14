@@ -14,7 +14,7 @@
 
 **Links**
 
-* ⭐️ my 94-stars repo: https://github.com/SmartyKit/
-* 📚Dev.to React & Redwood JS article: https://dev.to/spanarin/react-components-saas-startup-landing-with-redwoodjs-and-tailwind-css-in-10-minutes-3hc4
-* 🌐 more about me & my work: https://smartykit.github.io/dev-portfolio-landing/
+* ⭐️ my 111-stars repo: https://github.com/SmartyKit/
+* 📚 Dev.to React & Redwood JS article: https://dev.to/spanarin/react-components-saas-startup-landing-with-redwoodjs-and-tailwind-css-in-10-minutes-3hc4
+* 🌐 Pixel-Perfect Copilot: https://github.com/spanarin/pixel-perfect 
 
