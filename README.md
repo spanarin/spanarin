@@ -5,16 +5,17 @@
 **What I'm up to**
 
 - 👪 Raising a family
-- 🏗️ Engineering products with impact and great UI/UX
+- 🏗️ AI-based engineering products with impact and great UI/UX
 - 🌱 I’m currently learning the best of UI/UX from Apple (Steve Wozniak, Jony Ive, Design Guidelines), Adam Wathan (Tailwind CSS), Dieter Rams, Teenage Engineering
 - 🚧 Open source work in the Redwood JS ecosystem and Expo (React Native)
-- 💬 Ask me about React, React Native, Tailwind CSS
+- 💬 Ask me about React & Python
 - 📫 How to reach me: sergpanarin@gmail.com
 - ⚡ Fun fact: Steve Wozniak is my client
 
 **Links**
 
-* ⭐️ my 111-stars repo: https://github.com/SmartyKit/
+* 💻 Expo/React Native open source contribution: https://github.com/expo/expo/pull/30614
+* ⭐️ my 100+ stars repo: https://github.com/SmartyKit/
 * 📚 Dev.to React & Redwood JS article: https://dev.to/spanarin/react-components-saas-startup-landing-with-redwoodjs-and-tailwind-css-in-10-minutes-3hc4
-* 🌐 Pixel-Perfect Copilot: https://github.com/spanarin/pixel-perfect 
+* 🌐 JavaScript Chip-8 emulator: https://github.com/spanarin/javascript-chip-8-emulator 
 
