@@ -17,5 +17,6 @@
 * 💻 Expo/React Native open source contribution: https://github.com/expo/expo/pull/30614
 * ⭐️ my 100+ stars repo: https://github.com/SmartyKit/
 * 📚 Dev.to React & Redwood JS article: https://dev.to/spanarin/react-components-saas-startup-landing-with-redwoodjs-and-tailwind-css-in-10-minutes-3hc4
+* 📊 Node.js vs. C++ web server test (Apache Benchmark, 10K requests): https://github.com/spanarin/node-vs-c-plus-plus
 * 🌐 JavaScript Chip-8 emulator: https://github.com/spanarin/javascript-chip-8-emulator 
 
