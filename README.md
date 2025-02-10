@@ -5,7 +5,7 @@
 **What I'm up to**
 
 - 👪 Raising a family
-- 🏗️ AI-based engineering products with impact and great UI/UX
+- 🏗️ AI-based engineering products with impact and great UI/UX (B2B SaaS, FinTech)
 - 🌱 I’m currently learning the best of UI/UX from Apple (Steve Wozniak, Jony Ive, Design Guidelines), Adam Wathan (Tailwind CSS), Dieter Rams, Teenage Engineering
 - 🚧 Open source work in the Redwood JS ecosystem and Expo (React Native)
 - 💬 Ask me about React & Python
